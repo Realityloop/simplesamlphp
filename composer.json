@@ -67,8 +67,8 @@
         "simplesamlphp/assert": "^1.0.0",
         "simplesamlphp/saml2": "^5.0.0-alpha.6",
         "simplesamlphp/simplesamlphp-assets-base": "^2.0.0",
-        "simplesamlphp/simplesamlphp-module-adfs": "dev-master",
-        "symfony/cache": "^5.4||^6",
+        "simplesamlphp/simplesamlphp-module-adfs": "^3.0.0-rc1",
+        "symfony/cache": "v6.3.1",
         "symfony/config": "^5.4||^6",
         "symfony/console": "^6.2",
         "symfony/dependency-injection": "^5.4||^6",
@@ -82,7 +82,7 @@
         "symfony/routing": "^5.4||^6",
         "symfony/translation-contracts": "^2.5||^3",
         "symfony/twig-bridge": "^5.4||^6",
-        "symfony/var-exporter": "^5.4||^6",
+        "symfony/var-exporter": "^6.2.10",
         "symfony/yaml": "^5.4||^6",
         "twig/intl-extra": "^3.3",
         "twig/twig": "^3.3.8"
@@ -113,7 +113,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.0.x-dev"
+            "dev-master": "2.0.x-dev"
         }
     }
 }
